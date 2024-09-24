@@ -1,0 +1,33 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android studio/Projetos Kotlin/Climaty-Weather/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Android studio/Projetos Kotlin/Climaty-Weather/app/src/main/res/layout/fragment_search.xml" value="0.2552083333333333" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/drawable/background_gd.xml" value="0.2105" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/drawable/card_style.xml" value="0.21" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/drawable/cursor_style.xml" value="0.1855" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/drawable/nav_bottom_style.xml" value="0.1855" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/drawable/view_search_style.xml" value="0.1855" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/font/poppins.xml" value="0.13802083333333334" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/activity_spalsh_screen.xml" value="0.25104166666666666" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/fragmen_search.xml" value="0.2552083333333333" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/fragment_favorite.xml" value="0.19" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/fragment_search.xml" value="0.2" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/layout/item_result.xml" value="0.22" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/menu/menu_main_bottom.xml" value="0.2552083333333333" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1835" />
+        <entry key="..\:/Projetos/Projetos Android/Projetos kotlin/climatyweather/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1165" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
