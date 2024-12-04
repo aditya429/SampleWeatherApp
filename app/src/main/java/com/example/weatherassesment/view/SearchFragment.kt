@@ -28,6 +28,7 @@ private val retrofitService = WeatherRetrofitConfig.getInstance()
 private lateinit var viewModel: SearchViewModel
 private var itemsCity: ArrayList<WeatherApiResult> = arrayListOf()
 
+//Search Activity
 class SearchFragment : Fragment(R.layout.fragment_search), IViewProgress {
 
     private var binding: FragmentSearchBinding? = null

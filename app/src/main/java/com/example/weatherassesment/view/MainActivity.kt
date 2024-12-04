@@ -13,6 +13,7 @@ private lateinit var homeFragment: HomeFragment
 private lateinit var searchFragment: SearchFragment
 
 private var currentFragment: Fragment? = null
+// Main Activity
 
 class MainActivity : AppCompatActivity(), BottomNavigationView.OnNavigationItemSelectedListener {
     override fun onCreate(savedInstanceState: Bundle?) {
